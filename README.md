@@ -50,21 +50,6 @@ Realbnb is a place where you can rent your property and book them with ease. It 
 - Algolia
 - Vercel
 
-## Authors
-
-👤 **Shubham Singh**
-
-- Portfolio:[shubhski](https://www.shubhski.dev/)
-- Github: [@shubhsk88](https://github.com/shubhsk88)
-- Twitter: [@shubhski](twitter.com/shubhski)
-- Linkedin: [linkedin](https://www.linkedin.com/in/shubhski/)
-
-👤 **Marcello Barbieri**
-
-- Portfolio: [marcedev](https://www.marce.dev)
-- Github: [@marcebdev](https://github.com/marcebdev)
-- Linkedin: [linkedin](https://www.linkedin.com/in/marcello-b/)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
